@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 count = 0  # 统计找到的次数
 
 with open("bomb", "r+b") as file:
