@@ -25,7 +25,6 @@ with open("bomb", "r+b") as file:
         file.write(new_data)  # 写入修改后的字节数据
 
 print(f"Total occurrences found: {count}")
-=======
 count = 0  # 统计找到的次数
 
 with open("bomb", "r+b") as file:
@@ -53,4 +52,3 @@ with open("bomb", "r+b") as file:
         file.write(new_data)  # 写入修改后的字节数据
 
 print(f"Total occurrences found: {count}")
->>>>>>> origin/main
