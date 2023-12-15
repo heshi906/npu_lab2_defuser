@@ -11,5 +11,4 @@ python defuser.py
 ```
 
 bomb文件就会被修改，如果爆炸会报错，但是并不会扣分（服务器端并不知晓）
-
-![Image text](https://raw.github.com/picture/505f1e80eb8c7a352e33f1d3a2ea9a3b.png)
+![image](picture/505f1e80eb8c7a352e33f1d3a2ea9a3b.jpg)
